@@ -9,7 +9,7 @@ meta.foundation-mq-small {
 meta.foundation-mq-medium {
   font-family: "/only screen and (min-width:40.063em) and (max-width:64em)/";
   width: 40.063em;
-
+}
 
 /* line 297, ../bower_components/foundation/scss/foundation/components/_global.scss */
 meta.foundation-mq-large {
@@ -6153,7 +6153,7 @@ abbr {
 blockquote {
   margin: 0 0 1.25rem;
   padding: 0.5625rem 1.25rem 0 1.1875rem;
-  border-left: 0px solid #dddddd;
+  border-left: 1px solid #dddddd;
 }
 /* line 328, ../bower_components/foundation/scss/foundation/components/_type.scss */
 blockquote cite {
