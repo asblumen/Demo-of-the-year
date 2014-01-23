@@ -2,7 +2,7 @@ i.medium {
 	font-size:40px;
 }
 
-a#chat_cta {
+#chat_cta {
 	text-decoration: underline;
 	
 
@@ -42,7 +42,7 @@ i.large {
 	background-color: lightgray;
 }
 #book_icon {
-	padding-bottom:1.5em;	
+	padding-bottom:1em;	
 	padding-left:3em;
 }
 #book_button {
@@ -76,8 +76,8 @@ i.large {
 }
 
 #bottom_book, #bottom_cta {
-	margin-top:4em;
-	margin-bottom:4em;
+	margin-top:3em;
+	margin-bottom:3em;
 	background-color: lightgray;
 }
 
