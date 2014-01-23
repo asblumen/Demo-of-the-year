@@ -14,7 +14,7 @@ i.large {
 #banner {
 	padding-top:2em;
 	padding-bottom:2em;
-	background-color:purple;
+	background-color:#e93d7a;
 	color:white;
 }
 #banner h1 {
@@ -27,7 +27,7 @@ i.large {
 	padding-top:1em;
 }
 #logo strong {
-	color:purple;
+	color:#e93d7a;
 }
 #phone_cta, #chat_cta {
 	padding-top:2em;	
